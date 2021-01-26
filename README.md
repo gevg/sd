@@ -1,2 +1,2 @@
 # sd
-sdarray
+sparse dense array
